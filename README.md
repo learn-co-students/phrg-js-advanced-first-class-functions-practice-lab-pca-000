@@ -23,3 +23,4 @@ You'll be writing six functions:
 - [MDN: Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-advanced-first-class-functions-practice-lab'>First-Class Functions Practice Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG First-Class Functions Practice Lab</p>
